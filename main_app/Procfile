@@ -1,1 +1,1 @@
-web: gunicorn APParent.wsgi --log-file -
+web: gunicorn apparent.wsgi --log-file -
